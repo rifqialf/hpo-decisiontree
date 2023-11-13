@@ -1,4 +1,5 @@
 # Hyperparameter Optimization
+This repository is my take on implementing Decision Tree using Dask and applying hyperparameter optimization to showcase my ability to use machine learning in Dask computing.
 
 ## Implementation
 Download the Jupyter Notebook 'hpo_assignment.ipnyb'.
